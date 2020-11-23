@@ -7,7 +7,6 @@
     * Amass weapons and income to be the most powerful player
     * Take over all metal extractors to win the game & reset map
     * win the prize: Discord winner role + ?
-    * Pay for cosmetics (no pay to win)
   * Map features
      * 3000 x 3000
      * total of 24 metal extractors (3 being super metal extractors in center of map)
