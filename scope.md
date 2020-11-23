@@ -1,4 +1,4 @@
-# SCOPE SHEET FOR MiT-RTS GAME
+# Scope Sheet for DEFCON Minetest game
 
 ## Game Repository: https://github.com/ratmix/DEFCON
 
